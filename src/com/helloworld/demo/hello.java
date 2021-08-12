@@ -7,7 +7,7 @@ public class hello {
 		for (int i = 0; i < 2; i++)
 		{
 			System.out.println("Hello");
-			System.out.println("Ivan");
+		
 			
 		}
 		
