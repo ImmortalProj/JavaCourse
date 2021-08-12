@@ -12,7 +12,7 @@ public class Library {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		while (true) {
+		
 			System.out.println("Please entr your name:");
 			String name = sc.next();
 			StringBuilder reverse = new StringBuilder(name);
@@ -31,7 +31,12 @@ public class Library {
 			System.out.print("Welcome to home: " + reverse);
 			System.out.print("\n");
 			System.out.print("\n");
-		}
+			
+			while(true) {
+				
+			}
+			
+		sc.close();
 
 	}
 	
