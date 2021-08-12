@@ -32,9 +32,7 @@ public class Library {
 			System.out.print("\n");
 			System.out.print("\n");
 			
-			while(true) {
-				
-			}
+		
 			
 		sc.close();
 
