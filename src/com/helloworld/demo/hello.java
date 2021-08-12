@@ -10,5 +10,8 @@ public class hello {
 			System.out.println("Hello");
 		}
 		
+		while(true)
+		
+		System.out.println("Hello");
 	}
 }
